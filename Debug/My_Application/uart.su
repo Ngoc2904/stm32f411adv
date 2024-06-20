@@ -1,0 +1,5 @@
+../My_Application/uart.c:5:6:UART2_init	32	static
+../My_Application/uart.c:24:6:UART_Send_byte	24	static
+../My_Application/uart.c:31:6:UART_Send_String	24	static
+../My_Application/uart.c:38:6:USART2_IRQHandler	16	static
+../My_Application/uart.c:47:6:uart_RX_set_callback	16	static
