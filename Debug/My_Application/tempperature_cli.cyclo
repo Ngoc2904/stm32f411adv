@@ -1,0 +1,4 @@
+../My_Application/tempperature_cli.c:8:6:response_print	1
+../My_Application/tempperature_cli.c:16:6:get_tempperature	3
+../My_Application/tempperature_cli.c:29:6:set_tempperaturemax	4
+../My_Application/tempperature_cli.c:46:6:set_tempperaturemin	4

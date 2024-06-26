@@ -1,2 +1,2 @@
-../My_Application/gpio.c:3:6:Led_init	16	static
-../My_Application/gpio.c:10:6:BlinkLED	24	static
+../My_Application/gpio.c:4:6:Led_init	16	static
+../My_Application/gpio.c:11:6:BlinkLED	24	static

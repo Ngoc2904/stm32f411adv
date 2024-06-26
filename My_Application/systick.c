@@ -1,5 +1,6 @@
+#include "../My_Application/systick.h"
+
 #include <stdint.h>
-#include "systick.h"
 int tick=0;
 void Sys_tick_init(){
 	uint32_t *STK_CTRL = (uint32_t *)0xe000e010;

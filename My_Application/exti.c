@@ -1,5 +1,6 @@
+#include "../My_Application/exti.h"
+
 #include <stdint.h>
-#include <exti.h>
 void EXTI0_init(){
 	uint32_t *RCC_AHB1ENR =(uint32_t*)(0x40023830);
 	*RCC_AHB1ENR|=(1<<0);

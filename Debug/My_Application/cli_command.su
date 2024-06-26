@@ -1,0 +1,2 @@
+../My_Application/cli_command.c:11:27:find_command_infor	24	static
+../My_Application/cli_command.c:21:6:cli_command_excute	72	static

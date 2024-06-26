@@ -6,4 +6,6 @@ void UART2_init();
 void UART_Send_byte(char data);
 void UART_Send_String(char *arr,int size);
 void uart_RX_set_callback(void *ptr);
+void uart_revice();
+void uart_hand();
 #endif
